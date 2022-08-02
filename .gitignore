@@ -1,0 +1,13 @@
+*.js
+*.d.ts
+node_modules
+node_modules/
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+cdk.out/
+.DS_Store
+
+wordpress-lab/README.md
+wordpress-lab/README
